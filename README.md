@@ -1,6 +1,6 @@
-Standar ClaimTypes for Node.js
+Standard ClaimTypes for Node.js
 =============
-claimtypes is a collection of standar claimTypes for Node.js
+claimtypes is a collection of standard claimTypes for Node.js
 
 ## Installation
 
