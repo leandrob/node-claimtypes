@@ -1,0 +1,16 @@
+{
+  "name": "claimtypes",
+  "version": "0.1.0",
+  "description": "Starndard claimtypes for Node.js",
+  "main": "./lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leandrob/node-claimtypes.git"
+  },
+  "keywords": [
+    "claimtypes"
+  ],
+  "author": "Leandro Boffi (lboffi@gmail.com)",
+  "license": "MIT",
+  "readmeFilename": "README.md"
+}
